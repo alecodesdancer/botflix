@@ -1,0 +1,25 @@
+
+# Botflix
+
+This is a python application that conducts a survey using a bot in Messenger, which, according to your tastes, recommends which series to watch.
+
+## Technologies
+
+The application is made in [**Python3**](https://www.python.org/download/releases/3.0/) using [**Django**](https://www.djangoproject.com) and [**Facebook development tools**](https://developers.facebook.com/?no_redirect=1)
+
+**[Ngrok](https://ngrok.com)** was used to successfully connect to Facebook.
+
+
+## Survey
+The survey was handled as a test, all the questions are linked to each other as shown below.
+
+
+Image
+
+
+
+
+
+## On action
+This is a short video of how the bot works
+
